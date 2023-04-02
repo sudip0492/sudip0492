@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying as an Undergraduate at ITER.<br>👯 I’m looking to collaborate on people working on projects related to Web Dev, AI,Networking.<br>🤝 I’m looking for help with Learning Data Science in efficient way.<br>🌱 I’m currently learning Data Science.<br>⚡ Fun fact: I am funny.<br>Enjoy my Profile. Peace Out.
+🔭 I’m an CSE Undergrad pursuing B.Tech at ITER.<br>👯 I’m looking to collaborate on projects related to Web Development & Machine Learning ,.<br>🤝Currently learning about MPTCP(Networking-Research) .<br>🌱 I’m currently working on projects of Web Dev and ML.<br>⚡ I love Programming and solving DSA Problem.<br>Enjoy my Profile. Peace Out.
 
 
 ## 🌐 Socials:
