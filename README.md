@@ -1,5 +1,9 @@
-<img src="robogif.gif" width="200px">
-<img src="https://media.tenor.com/iOVgZCkqQ_UAAAAi/robot-dancing-o2.gif" width="200px">
+<div style="display: inline-block;">
+  <img src="robogif.gif" width="200px">
+</div>
+<div style="display: inline-block;">
+  <img src="https://media.tenor.com/iOVgZCkqQ_UAAAAi/robot-dancing-o2.gif" width="200px">
+</div>
 
 
 # 💫 About Me:
