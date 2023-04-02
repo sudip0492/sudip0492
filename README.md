@@ -1,5 +1,5 @@
-<div style="display: flex; gap: 20px;">
-  <img src="robogif.gif" width="300px">
+<div style="display: flex; gap: 60px;">
+  <img src="robogif.gif" width="250px">
   <img src="https://media.tenor.com/iOVgZCkqQ_UAAAAi/robot-dancing-o2.gif" width="300px">
 </div>
 
