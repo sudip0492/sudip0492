@@ -1,7 +1,8 @@
-<div style="display: flex;">
-  <img src="robogif.gif" width="200px">
-  <img src="https://media.tenor.com/iOVgZCkqQ_UAAAAi/robot-dancing-o2.gif" width="200px">
+<div style="display: flex; gap: 20px;">
+  <img src="robogif.gif" width="300px">
+  <img src="https://media.tenor.com/iOVgZCkqQ_UAAAAi/robot-dancing-o2.gif" width="300px">
 </div>
+
 
 
 # 💫 About Me:
