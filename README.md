@@ -1,14 +1,15 @@
+
+
+<img src="homepage.jpg">
+
+# 💫 About Me:
+🔭 I’m an CSE Undergrad pursuing B.Tech at ITER.<br>👯 I’m looking to collaborate on projects related to Web Development & Machine Learning.<br>🌱 I’m currently working on projects of Web Dev and ML.<br>🤝Currently learning about MPTCP(Networking-Research).<br>⚡ I love Programming and solving DSA Problems.<br>Enjoy my Profile. Peace Out.
+
 <div style="display: flex; gap: 60px;">
   <img src="robogif.gif" width="250px">
   <img src="https://media.tenor.com/iOVgZCkqQ_UAAAAi/robot-dancing-o2.gif" width="300px">
 </div>
 
-
-
-# 💫 About Me:
-🔭 I’m an CSE Undergrad pursuing B.Tech at ITER.<br>👯 I’m looking to collaborate on projects related to Web Development & Machine Learning.<br>🌱 I’m currently working on projects of Web Dev and ML.<br>🤝Currently learning about MPTCP(Networking-Research).<br>⚡ I love Programming and solving DSA Problems.<br>Enjoy my Profile. Peace Out.
-
-<img src="homepage.jpg">
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sudipta.maity.0492) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudip_0492) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudip0492) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20634599) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sudip_0492) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sudip_0492) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeXyN_G7a1jB2wTAc3ErAZg) [![LeetCode](logo40.png)](https://leetcode.com/sudip_0492/)
 
