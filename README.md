@@ -1,4 +1,4 @@
-<img src="homephoto.jpg" width="200px">
+<img src="homephoto.jpg" width="50rem">
 
 # 💫 About Me:
 🔭 I’m an CSE Undergrad pursuing B.Tech at ITER.<br>👯 I’m looking to collaborate on projects related to Web Development & Machine Learning.<br>🌱 I’m currently working on projects of Web Dev and ML.<br>🤝Currently learning about MPTCP(Networking-Research).<br>⚡ I love Programming and solving DSA Problems.<br>Enjoy my Profile. Peace Out.
