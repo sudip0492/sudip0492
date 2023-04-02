@@ -13,7 +13,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sudip0492&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<iframe src="https://giphy.com/embed/5k5vZwRFZR5aZeniqb" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/content-jasper-ai-5k5vZwRFZR5aZeniqb">via GIPHY</a></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sudip0492&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudip0492&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -25,5 +24,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sudip0492&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNjMjE3MGVhNzZjOTFjYWRlZWE1ZDBjMDExZWZkNmFkNzRhZTg1ZiZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif" width="300px">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
