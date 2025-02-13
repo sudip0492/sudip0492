@@ -3,7 +3,9 @@
 <img src="homepage.jpg">
 
 # 💫 About Me:
-🔭 I’m an CSE Undergrad pursuing B.Tech at ITER.<br>👯 I’m looking to collaborate on projects related to Web Development & Machine Learning.<br>🌱 I’m currently working on projects of Web Dev and ML.<br>🤝Currently learning about MPTCP(Networking-Research).<br>⚡ I love Programming and solving DSA Problems.<br>Enjoy my Profile. Peace Out.
+🔭 I’m an 22. I did my BTech. in CSE in 2023.<br>👯 I’m looking to collaborate on projects related to Web Development & Machine Learning.
+
+<!-- <br>🌱 I’m currently working on projects of Web Dev and ML.<br>🤝Currently learning about MPTCP(Networking-Research).<br>⚡ I love Programming and solving DSA Problems.<br>Enjoy my Profile. Peace Out. -->
 
 <div style="display: flex; gap: 60px;">
   <img src="robogif.gif" width="250px">
